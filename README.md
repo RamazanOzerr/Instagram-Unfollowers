@@ -1,4 +1,4 @@
-# Instagram unfollowers app
+# INSTAGRAM UNFOLLOWERS APP
 you can get your unfollowers list into a txt file by using this program
 
 # HOW TO USE
