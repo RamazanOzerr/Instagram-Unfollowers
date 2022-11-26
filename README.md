@@ -1,7 +1,7 @@
-# INSTAGRAM UNFOLLOWERS APP
+# Instagram unfollowers app
 you can get your unfollowers list into a txt file by using this program
 
-# HOW TO USE
+# How to use
 when you run the program, it will ask you to enter three things
 username: you're supposed to enter your username here
 password: you're supposed to enter your password here
@@ -9,13 +9,13 @@ target username: you're supposed to enter the target username here
 
 if you want to get your own unfollowers, you need to enter your own user name into the target username section
 
-# WHAT'S THE TARGET USERNAME SECTION FOR?
+# what's the target username for?
 you may want to get unfollowers of any other account, with target username section you can get it without logging in that account
 
-# HOW TO INSTALL
+# How to install
 Download link will be added here soon...
 
-# EXAMPLE PHOTOS
+# Example pics
 it's console-based program, so it doesn't have a GUI
 
 login screen
